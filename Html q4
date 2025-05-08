@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Hometown - Kannur, Payyanur, Cherupuzha, Mulapra</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            padding: 20px;
+        }
+        .hometown-intro {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .hometown-intro h2 {
+            color: #333;
+        }
+        .hometown-intro p {
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Hometown</h1>
+        <p>Kannur, Payyanur, Cherupuzha, Mulapra</p>
+    </header>
+
+    <nav>
+        <a href="#kannur">Kannur</a>
+        <a href="#payyanur">Payyanur</a>
+        <a href="#cherupuzha">Cherupuzha</a>
+        <a href="#mulapra">Mulapra</a>
+    </nav>
+
+    <div class="container">
+        <div id="kannur" class="hometown-intro">
+            <h2>Kannur</h2>
+            <p>Kannur, also known as Cannanore, is a city in the northern part of Kerala, India. It is known for its beautiful beaches, historical forts, and vibrant culture. Kannur is often referred to as the "Land of Looms and Lores" due to its rich tradition of handloom weaving and folk art.</p>
+        </div>
+
+        <div id="payyanur" class="hometown-intro">
+            <h2>Payyanur</h2>
+            <p>Payyanur is a town in the Kannur district of Kerala. It is known for its cultural heritage, especially the Payyanur Pavithra Ring and the ancient temples. The town is also famous for its traditional art forms like Theyyam and its scenic beauty.</p>
+        </div>
+
+        <div id="cherupuzha" class="hometown-intro">
+            <h2>Cherupuzha</h2>
+            <p>Cherupuzha is a serene village located in the Kannur district. It is known for its lush green landscapes, tranquil rivers, and peaceful environment. Cherupuzha is a perfect destination for nature lovers and those seeking a quiet retreat.</p>
+        </div>
+
+        <div id="mulapra" class="hometown-intro">
+            <h2>Mulapra</h2>
+            <p>Mulapra is a small village near Payyanur in the Kannur district. It is known for its agricultural activities, traditional lifestyle, and close-knit community. The village offers a glimpse into the rural life of Kerala.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 My Hometown. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
