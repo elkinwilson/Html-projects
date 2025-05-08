@@ -1,0 +1,51 @@
+<!DOCTYPE H TML>
+<html>
+<head>
+  <title>courses</title>
+</head>
+<body bgcolor="#46ff33">
+<center>
+    <h1>Amal Jyothi College of Engineering (Autonomous), Kanjirapally</h1> </center>
+    <h2><img src="https://pbs.twimg.com/profile_images/378800000518009274/2a2999517c5664a616bd18249e892aa4_400x400.png"height='20' width="20"/>About</h2>
+    <p>Amal Jyothi College of Engineering is the first engineering college in Kerala to obtain NAAC accreditation with A grade and the first new-generation engineering college in the State to secure the prestigious NBA accreditation for prime departments
+    Amal Jyothi is approved by the All India Council for Technical Education (AICTE), New Delhi. It is affiliated with APJ Abdul Kalam Technological University, Thiruvananthapuram since 2015. From 2001-2014, the College was affiliated with Mahatma Gandhi University, Kottayam.
+    The main features of the College include world-class infrastructure, top-flight faculty, high pass percentage, excellent placement record, unique student projects, first-rate innovation & entrepreneurship ventures, and a flourishing Start-ups Valley on the campus.</p>
+     <center>
+    <img src="https://www.ajce.in/mt/images/slider_01.jpg"width='700' height='500' />
+    <figcaption><em>The source of wisdom</em></figcaption>
+     </center>
+    <h2><img src="https://static.vecteezy.com/system/resources/previews/021/013/584/non_2x/graduation-hat-on-transparent-background-free-png.png" width='20' height='20'>B.Tech Programs (840 seats)</h2>
+    <ol>
+        <li>Artificial Intelligence and Data Science (60)</li>
+        <li>Chemical Engineering (60)</li>
+        <li>Civil Engineering (60)</li>
+        <li><a href="cse.html">Computer Science and Engineering (180)</li></a>
+        <li>Computer Science and Engineering (Cyber Security) (30)</li>
+        <li>Electronics and Communication Engineering (120)</li>
+        <li>Electrical and Electronics Engineering (60)</li>
+        <li>Food Technology (60)</li>
+        <li>Information Technology (60)</li>
+        <li>Mechanical Engineering (60)</li>
+        <li>Mechanical Engineering (Automobile) (60)</li>
+        <li>Metallurgical and Materials Engineering (30)</li></ol>
+
+    <h2><img src="https://static.vecteezy.com/system/resources/previews/021/013/584/non_2x/graduation-hat-on-transparent-background-free-png.png" width='20' height='20'>M.Tech Programs (87 seats)</h2>
+    <ol>
+        <li>Computer-Aided Structural Engineering</li>
+        <li>Computer Science and Engineering</li>
+        <li>Energy Systems</li>
+        <li>Structural Engineering and Construction Management</li>
+        <li>Environmental Engineering</li>
+        <li>Electric Vehicle Technology</li>
+        <li>VLSI Design and Embedded Systems</li>
+    </ol>
+    <table border="1" cellpadding="10" cellspacing="0">
+                <tr>
+                <td>
+                    <a href="open.html"><font color="black">Back to Homepage</font></a> </td>
+                </tr>
+        </table>
+
+</body>
+</html>
+
