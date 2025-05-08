@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Frame Layout</title>
+</head>
+<frameset rows="50%,50%">
+    <frameset cols="50%,50%">
+        <frame style="background-color: #03a89a;" name="frame1">
+        <frame style="background-color: #fcb825;" name="frame2">
+    </frameset>
+    <frameset cols="50%,50%">
+        <frame style="background-color: #ae10ec;" name="frame3">
+        <frame style="background-color: #c60059;" name="frame4">
+    </frameset>
+</frameset>
+</html>
